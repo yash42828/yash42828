@@ -38,7 +38,7 @@ I am Yash Bajaj 😃. I am from Surat, Gujarat and completed my B.Tech from Uka 
 - 🎯 Our Startup Elearning Website: [Website](https://codewarriors2020.github.io/)
 - 🔔 Subscribe:- [Code Warriors](https://www.youtube.com/channel/CodeWarriors)
 - ⚡ Fun fact: Internet users blink less than usual.
-- 📝 Resume: [Resume](https://drive.google.com/file/d/1JMX2yQuQf16HJKuKpqwH3Z23RKqAFqNq/view?usp=sharing)
+- 📝 Resume: [Resume](https://drive.google.com/file/d/1oEREBNkYwMq6mYOOodzUA8_Bv1MuZzIK/view?usp=sharing)
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash42828&hide=["issues"]&show_icons=true)
 
