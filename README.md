@@ -1,9 +1,8 @@
 # [Yash Bajaj](https://abhisheknaidu.tech) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 <h2> Hi there 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Mayank_crazy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mayank_crazy)](https://twitter.com/yash42828) [![Linkedin Badge](https://img.shields.io/badge/-MayankBajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-bajaj)](https://www.linkedin.com/in/yashbajaj42828)
-[![Medium Badge](https://img.shields.io/badge/-@mayank114-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mayank114)](https://medium.com/@yash42828)
+[![Twitter Badge](https://img.shields.io/badge/-@Yash42828-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yash42828)](https://twitter.com/yash42828) [![Linkedin Badge](https://img.shields.io/badge/-YashBajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-bajaj)](https://www.linkedin.com/in/yashbajaj42828)
+[![Medium Badge](https://img.shields.io/badge/-@mayank114-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yash42828)](https://medium.com/@yash42828)
 [![Gmail Badge](https://img.shields.io/badge/-bajajyash42828@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:bajajyash42828@gmail.com)
 I am Yash Bajaj 😃. I am from Surat, Gujarat and completed my B.Tech from Uka Tarsadia University 🏫, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀. I love to explore and learn about new things.
 
